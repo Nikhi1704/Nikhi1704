@@ -4,20 +4,23 @@
 
 ### VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=RTL+Design;Verilog+HDL;FPGA+Development;Digital+Logic+Design;Aspiring+VLSI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=RTL+Design;Verilog+HDL;FPGA+Development;Digital+Logic+Design;Aspiring+VLSI+Engineer" />
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:mulenikhilesh080@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://linkedin.com/in/nikhilesh-reddy-mule-0044a7314">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nikhi1704">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Nikhi1704&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Nikhi1704&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -25,76 +28,77 @@
 
 # 👨‍💻 About Me
 
-🎓 B.E. Electronics Engineering (VLSI Design & Technology)
+🎓 **B.E. Electronics Engineering (VLSI Design & Technology)**
 
-🏫 R.M.K Engineering College, Chennai
+🏫 **R.M.K Engineering College, Chennai**
 
-💡 Passionate about RTL Design, FPGA, ASIC Design and Digital Electronics.
+💡 Passionate about **RTL Design, FPGA, ASIC Design, and Digital System Design**
 
-🎯 Aspiring RTL Design / VLSI Design Engineer.
+🚀 Interested in building high-performance digital hardware architectures.
 
-📚 Currently learning
-- SystemVerilog
-- ASIC Design Flow
-- FPGA Implementation
-- Verification Concepts
+🎯 **Career Goal:** RTL Design / VLSI Design / ASIC Design Engineer
 
 ---
 
 # 🛠 Technical Skills
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode"/>
-
-</p>
-
-### Hardware
-
+### 💻 Hardware Design
 - Verilog HDL
 - RTL Design
-- FSM Design
 - Digital Logic Design
-- FPGA
+- FSM Design
+- FPGA Design
 - Xilinx Vivado
 - Cadence Virtuoso
 
-### Programming
-
+### 👨‍💻 Programming
 - C
 - Python
+- HTML
+- CSS
+- React.js
+- FastAPI
+
+### 🛠 Tools
+- Git
+- GitHub
+- VS Code
+- Microsoft Office
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 Booth Radix-4 Dadda Multiplier
+## 🔥 High-Speed FPGA-Based Signed Multiplier
 
-✔ 8×8 High-Speed Multiplier
-
-✔ Verilog HDL
-
-✔ Vivado Simulation
-
-✔ FPGA Implementation
+- Booth Radix-4 Encoding
+- Dadda Reduction Tree
+- FPGA Implementation
+- Cadence RTL Design
+- Reduced LUT utilization by **29.7%**
+- Achieved **2.55 ns** delay
 
 ---
 
 ## 📚 Intelligent Book Summarization Platform
 
-✔ Python
-
-✔ Flask
-
-✔ OCR
-
-✔ NLP
-
-✔ Long Document Summarization
+- NLP-based Summarization
+- FastAPI Backend
+- React Frontend
+- OCR Support
+- Long PDF Summarization
 
 ---
 
-# 📊 GitHub Stats
+## 💡 Automatic Street Light Controller
+
+- LDR-based Smart Controller
+- Relay Switching
+- Energy Efficient Design
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -116,17 +120,40 @@
 
 ---
 
-# 🌱 Career Objective
+# 📜 Certifications
 
-To build innovative VLSI and FPGA solutions by applying strong knowledge in Digital Design, RTL Coding, and Verification while continuously learning advanced semiconductor technologies.
+🏅 NPTEL – System Design Through Verilog (Elite)
+
+🏅 Digital Electronics – Udemy
+
+🏅 C Programming Basics – Simplilearn
+
+---
+
+# 🌱 Currently Learning
+
+- SystemVerilog
+- ASIC Design Flow
+- Static Timing Analysis (STA)
+- Physical Design Fundamentals
+- Digital Verification
 
 ---
 
 # 📫 Connect With Me
 
-📧 YOUR_EMAIL@gmail.com
+📧 **Email:** mulenikhilesh080@gmail.com
 
-💼 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://linkedin.com/in/nikhilesh-reddy-mule-0044a7314
 
-⭐ If you like my projects, consider giving them a star!
+💻 **GitHub:** https://github.com/Nikhi1704
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Designing efficient digital hardware, one RTL module at a time."*
+
+</div>
