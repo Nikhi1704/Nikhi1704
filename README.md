@@ -59,7 +59,6 @@
 - FastAPI
 
 ### 🛠 Tools
-- Git
 - GitHub
 - VS Code
 - Microsoft Office
