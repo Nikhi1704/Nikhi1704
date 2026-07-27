@@ -5,7 +5,7 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=VLSI+Engineering+Student;Verilog+HDL+Developer;RTL+Design+%26+Digital+Design;FPGA+Implementation+using+Vivado;Cadence+Tool+User;Passionate+about+VLSI+Design"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=VLSI+Engineering+Student;Verilog+HDL;RTL+Design;FPGA+Implementation;Cadence+Virtuoso;Xilinx+Vivado"/>
 </p>
 ---
 
