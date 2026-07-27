@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mule Nikhilesh Reddy</h1>
 
 <h3 align="center">
-VLSI Design Engineer | RTL Design | FPGA | Verilog HDL
+VLSI Design Engineer | RTL Design | FPGA Enthusiast
 </h3>
 
 <p align="center">
-Passionate about Digital System Design, ASIC Design, and Design Verification.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=VLSI+Design+Engineer;RTL+Design+%7C+Verilog+HDL;FPGA+Developer;Learning+SystemVerilog+and+UVM;Future+ASIC+Design+Engineer" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
