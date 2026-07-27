@@ -32,7 +32,7 @@
 
 🏫 **R.M.K Engineering College, Chennai**
 
-💡 Passionate about **RTL Design, FPGA, ASIC Design, and Digital System Design**
+💡 Passionate about **RTL Design, FPGA, and Digital System Design**
 
 🚀 Interested in building high-performance digital hardware architectures.
 
