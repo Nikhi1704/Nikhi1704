@@ -26,7 +26,7 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ### Languages
 - Verilog HDL
-- C
+- C (Basics)
 - Python (Learning)
 
 ### EDA Tools
@@ -35,7 +35,6 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ### Web Technologies
 - HTML
-- CSS
 - React.js
 - FastAPI
 
@@ -67,7 +66,6 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 - SystemVerilog
 - UVM
 - Design Verification
-- Physical Design
 
 ---
 
