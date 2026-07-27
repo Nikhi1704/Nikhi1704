@@ -1,96 +1,132 @@
-<h1 align="center">Hi 👋, I'm Mule Nikhilesh Reddy</h1>
+<div align="center">
 
-<h3 align="center">
-VLSI Design Engineer | RTL Design | FPGA Enthusiast
-</h3>
+# 👋 Hi, I'm Mule Nikhilesh Reddy
+
+### VLSI Design Engineer | RTL Design | FPGA Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=RTL+Design;Verilog+HDL;FPGA+Development;Digital+Logic+Design;Aspiring+VLSI+Engineer" />
+
+<p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=Nikhi1704&color=blue&style=for-the-badge)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.E. Electronics Engineering (VLSI Design & Technology)
+
+🏫 R.M.K Engineering College, Chennai
+
+💡 Passionate about RTL Design, FPGA, ASIC Design and Digital Electronics.
+
+🎯 Aspiring RTL Design / VLSI Design Engineer.
+
+📚 Currently learning
+- SystemVerilog
+- ASIC Design Flow
+- FPGA Implementation
+- Verification Concepts
+
+---
+
+# 🛠 Technical Skills
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=VLSI+Engineering+Student;Verilog+HDL;RTL+Design;FPGA+Implementation;Cadence+Virtuoso;Xilinx+Vivado"/>
+
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode"/>
+
 </p>
----
 
-## 👨‍💻 About Me
+### Hardware
 
-🎓 B.E. Electronics Engineering (VLSI Design & Technology)  
-🏫 R.M.K Engineering College, Chennai  
-📍 India
-
-- 🌱 VLSI engineering student with hands-on experience in **RTL and transistor-level design**
-- 💻 Interested in **RTL Design, and FPGA Development**
-- 🚀 Passionate about building efficient digital hardware
-- 📫 Email: **mulenikhilesh080@gmail.com**
-
----
-
-## 🛠️ Technical Skills
-
-### ⚡ HDL & VLSI
 - Verilog HDL
 - RTL Design
-- FPGA Implementation
-- Cadence Virtuoso
+- FSM Design
+- Digital Logic Design
+- FPGA
 - Xilinx Vivado
+- Cadence Virtuoso
 
-### 💻 Programming
-- C (Fundamentals)
-- Python (Learning)
+### Programming
 
-### 🌐 Web Technologies
-- HTML
-- React.js
-- FastAPI
-
-### 🧰 Tools
-- Git
-- VS Code
-- Microsoft Office
+- C
+- Python
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 High-Speed FPGA-Based Signed Multiplier
-- Booth Radix-4 Multiplier
-- Dadda Multiplier
-- RTL Design
-- FPGA Implementation
-- Timing Analysis
+## 🔥 Booth Radix-4 Dadda Multiplier
 
-### 🔹 Intelligent Book Summarization Platform
-- NLP
-- FastAPI
-- React.js
+✔ 8×8 High-Speed Multiplier
 
-### 🔹 Automatic Street Light Controller
-- LDR
-- LM358
-- Relay Switching
+✔ Verilog HDL
+
+✔ Vivado Simulation
+
+✔ FPGA Implementation
 
 ---
 
-## 📚 Currently Learning
+## 📚 Intelligent Book Summarization Platform
 
-- Advanced Verilog HDL
-- FPGA Design using Vivado
-- Digital System Design
-- RTL Design
+✔ Python
 
----
+✔ Flask
 
-## 🏆 Certifications
+✔ OCR
 
-- 🥇 NPTEL – System Design Through Verilog (Elite)
-- 📘 Digital Electronics – Udemy
-- 💻 C Programming Basics – Simplilearn
+✔ NLP
+
+✔ Long Document Summarization
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/
-- GitHub: https://github.com/Nikhi1704
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhi1704&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhi1704&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
-Every Verilog module I build teaches me something new about digital hardware.
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nikhi1704&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Career Objective
+
+To build innovative VLSI and FPGA solutions by applying strong knowledge in Digital Design, RTL Coding, and Verification while continuously learning advanced semiconductor technologies.
+
+---
+
+# 📫 Connect With Me
+
+📧 YOUR_EMAIL@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/YOUR-LINKEDIN
+
+⭐ If you like my projects, consider giving them a star!
