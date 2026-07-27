@@ -15,8 +15,8 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 🏫 R.M.K Engineering College, Chennai  
 📍 India
 
-- 🌱 Currently learning **SystemVerilog, UVM, and Physical Design**
-- 💻 Interested in **RTL Design, FPGA Development, and ASIC Design**
+- 🌱 VLSI engineering student with hands-on experience in **RTL and transistor-level design**
+- 💻 Interested in **RTL Design, and FPGA Development**
 - 🚀 Passionate about building efficient digital hardware
 - 📫 Email: **mulenikhilesh080@gmail.com**
 
@@ -24,19 +24,28 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ## 🛠️ Technical Skills
 
-### Languages
-- Verilog HDL
-- C (Basics)
-- Python (Learning)
+## 🛠️ Technical Skills
 
-### EDA Tools
+### ⚡ HDL & VLSI
+- Verilog HDL
+- RTL Design
+- FPGA Implementation
 - Cadence Virtuoso
 - Xilinx Vivado
 
-### Web Technologies
+### 💻 Programming
+- C (Fundamentals)
+- Python (Learning)
+
+### 🌐 Web Technologies
 - HTML
 - React.js
 - FastAPI
+
+### 🧰 Tools
+- Git
+- VS Code
+- Microsoft Office
 
 ---
 
@@ -63,9 +72,10 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ## 📚 Currently Learning
 
-- SystemVerilog
-- UVM
-- Design Verification
+- Advanced Verilog HDL
+- FPGA Design using Vivado
+- Digital System Design
+- RTL Design
 
 ---
 
@@ -81,3 +91,7 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 - LinkedIn: https://www.linkedin.com/
 - GitHub: https://github.com/Nikhi1704
+
+---
+
+⚡ **Fun Fact:** Every Verilog module I build teaches me something new about digital hardware.
