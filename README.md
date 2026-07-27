@@ -92,4 +92,5 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ---
 
-⚡ **Fun Fact:** Every Verilog module I build teaches me something new about digital hardware.
+## ⚡ Fun Fact
+Every Verilog module I build teaches me something new about digital hardware.
