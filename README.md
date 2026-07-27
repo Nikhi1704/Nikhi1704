@@ -36,7 +36,7 @@
 
 🚀 Interested in building high-performance digital hardware architectures.
 
-🎯 **Career Goal:** RTL Design / VLSI Design / ASIC Design Engineer
+🎯 **Career Goal:** RTL Design / VLSI Design / Design Verification Engineer
 
 ---
 
@@ -55,7 +55,6 @@
 - C
 - Python
 - HTML
-- CSS
 - React.js
 - FastAPI
 
@@ -132,11 +131,8 @@
 
 # 🌱 Currently Learning
 
-- SystemVerilog
-- ASIC Design Flow
-- Static Timing Analysis (STA)
-- Physical Design Fundamentals
-- Digital Verification
+- Advanced Verilog HDL
+- Digital System Design
 
 ---
 
