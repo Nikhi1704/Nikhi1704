@@ -24,8 +24,6 @@ VLSI Design Engineer | RTL Design | FPGA Enthusiast
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
 ### ⚡ HDL & VLSI
 - Verilog HDL
 - RTL Design
